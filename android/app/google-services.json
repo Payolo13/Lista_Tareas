@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "630419433177",
+    "project_id": "fir-lista-tareas",
+    "storage_bucket": "fir-lista-tareas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:630419433177:android:67a16fd2d91d387f7a00c8",
+        "android_client_info": {
+          "package_name": "com.example.lista_tareas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "630419433177-kk2ac0kmapoqtce99k3s2l01am0bo1mq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC08zwff2HoMs1EDTqs9e-hhQosmvuUUko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "630419433177-kk2ac0kmapoqtce99k3s2l01am0bo1mq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
